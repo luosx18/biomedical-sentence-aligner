@@ -1,6 +1,6 @@
 # biomedical_sentence_aligner
  
-codes for paper Sentence Alignment with Parallel Documents Facilitates Biomedical Machine Translation.
+codes for the paper Sentence Alignment with Parallel Documents Facilitates Biomedical Machine Translation.
 
 The pseudo_documents.py generates and conmbines all pseudo_docoments into one txt for w2v training with the original document pairs.
 
